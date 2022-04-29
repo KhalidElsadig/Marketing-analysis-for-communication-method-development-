@@ -1,5 +1,7 @@
 # Marketing analysis  for communication method development
 
+## Summary
+
 * Created a model that ranks communication methods according to its influence of channel partner to response to the campaign (email and calls are the best) with 81% accuracy.
 * Engineered features from the sales of the coffee to know the coffee sales comparing to total sales and other brands.
 * Optimized logistic , KNN, Decision Tree, Naive Bayes, extreme gradient boosting,SVM and Random Forest classifier using GridsearchCV to reach the best model.
