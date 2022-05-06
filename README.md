@@ -1,4 +1,5 @@
-# Marketing analysis  for communication method development
+# Marketing analysis  for communication method development " **[Full code](https://github.com/KhalidElsadig/Marketing-analysis-for-communication-method-development-/blob/main/FMCG%20Marketing%20analysis%20%20for%20communication%20method%20development.ipynb)** "
+
 
 ## Summary
 
