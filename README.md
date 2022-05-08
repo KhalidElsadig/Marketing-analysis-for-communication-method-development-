@@ -37,7 +37,7 @@ After reading the data files, I needed to clean it up so that it was usable for 
 
 I looked at channel partner responses against most of the independent variables and the distribution of numerical variables.
 
-![alt text](merge.png "EDA")
+![alt text](https://github.com/KhalidElsadig/Marketing-analysis-for-communication-method-development-/blob/ea8c4624fd1530d461031eda72347af9a86cc1b3/merge.png "EDA")
 
 ## Model Building
 
