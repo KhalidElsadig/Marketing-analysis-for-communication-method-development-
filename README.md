@@ -50,7 +50,7 @@ I started with logistic regression as baseline then rest of six models with the 
 I picked Random forest model as the best one considering over fitting beside the accuracy with these scores:
 accuracy = 0.81, precision of responded= 0.88, recall = 0.70, f1-score = 0.78, AUC = 0.86,   KS statistic maximum difference = 0.614 .
 with feature importance as below :
-![alt text](final%20model%20feature%20importance.png "Feature importance")
+![alt text](https://github.com/KhalidElsadig/Marketing-analysis-for-communication-method-development-/blob/bad62704362bd26eb945fa5ae1beab34073819f4/score%20comparision%20%20table.png "Feature importance")
 
 ## Insights and actions to take
 
