@@ -45,12 +45,12 @@ First, I split the data into train and tests sets with 80% to 20 respectively %.
 
 I tried six different models and evaluated them using : accuracy, precision, recall, f1-score, AUC,ROC curve, Lift curve and KS statistic test where accuracy is the primary evaluation metric used for final model selection because there is no imbalance in the modeled data.
 I started with logistic regression as baseline then rest of six models with the following results:
-![alt text](score%20comparision%20%20table.png "Models scores")
+![alt text](https://github.com/KhalidElsadig/Marketing-analysis-for-communication-method-development-/blob/bad62704362bd26eb945fa5ae1beab34073819f4/score%20comparision%20%20table.png "Models scores")
 
 I picked Random forest model as the best one considering over fitting beside the accuracy with these scores:
 accuracy = 0.81, precision of responded= 0.88, recall = 0.70, f1-score = 0.78, AUC = 0.86,   KS statistic maximum difference = 0.614 .
 with feature importance as below :
-![alt text](https://github.com/KhalidElsadig/Marketing-analysis-for-communication-method-development-/blob/bad62704362bd26eb945fa5ae1beab34073819f4/score%20comparision%20%20table.png "Feature importance")
+![alt text](https://github.com/KhalidElsadig/Marketing-analysis-for-communication-method-development-/blob/20c31508e55fc0f1ab21709b280520e48f229254/final%20model%20feature%20importance.png "Feature importance")
 
 ## Insights and actions to take
 
